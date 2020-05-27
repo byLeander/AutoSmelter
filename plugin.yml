@@ -1,0 +1,8 @@
+name: AutoSmelter
+main: byLeander\AutoSmelter\Main
+version: 1.0
+api: [3.0.0, 4.0.0]
+author: byLeander
+commands:
+  autosmelter:
+    description: "AutoSmelter Config"
